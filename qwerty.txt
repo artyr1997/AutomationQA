@@ -9,3 +9,5 @@ Names:
 8.
 9.
 10. Ros
+11. Zar
+12. Tral
