@@ -1,17 +1,13 @@
-<<<<<<< Updated upstream
-
-
-
-
-
-New Branch
-=======
-<<<<<<< HEAD
-=======
 Names:
 1.
 2.
 3.
 4.
->>>>>>> 9f0719eebe130051daa9aceb4e3282bf734da791
->>>>>>> Stashed changes
+5.
+6.
+7.
+8.
+9.
+10. Ros
+11. Zar
+12. Tral
