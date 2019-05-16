@@ -1,6 +1,17 @@
+<<<<<<< Updated upstream
 
 
 
 
 
 New Branch
+=======
+<<<<<<< HEAD
+=======
+Names:
+1.
+2.
+3.
+4.
+>>>>>>> 9f0719eebe130051daa9aceb4e3282bf734da791
+>>>>>>> Stashed changes
